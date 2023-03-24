@@ -35,6 +35,7 @@ WHERE ProductID IN
 AND ListPrice > 100
 ORDER BY ProductID;
 
+
 -- CHALLENGE 2: Analizar la rentabilidad
 -- El costo estándar de un producto y el precio unitario al que se vende
 -- determinan su rentabilidad. Debe utilizar subconsultas correlacionadas 
